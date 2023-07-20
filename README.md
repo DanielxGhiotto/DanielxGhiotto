@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielxGhiotto
+- 👋 Hi, I’m @DanielxGhiotto, Daniel Pagano
 - 👀 I’m interested in computer science, especially in databases but I enjoy playing with electronics
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
