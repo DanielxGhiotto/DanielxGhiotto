@@ -1,3 +1,4 @@
 PROGETTI:
 
 Modelli e metodi per la qualità del software: https://github.com/giuseppesilvini/Waluigi
+Integrazione e test di sistemi software: https://github.com/DanielxGhiotto/Wario
